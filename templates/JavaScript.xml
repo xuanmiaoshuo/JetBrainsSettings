@@ -1,0 +1,79 @@
+<templateSet group="JavaScript">
+  <template name="clg" value="console.log('$describe$', $VAR$)$END$" description="console.log" toReformat="false" toShortenFQNames="true">
+    <variable name="describe" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="arrow" value="$FunctionName$ = ($VAR$) =&gt; {&#10;  $END$&#10;}" description="箭头函数" toReformat="false" toShortenFQNames="true">
+    <variable name="FunctionName" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="edc" value="/**&#10; *name: $fileName$&#10; *describe: $describe$&#10; *time: $date$ $time$&#10; *author: $user$&#10; *version: $version$&#10;*/&#10;&#10;import React, {PureComponent} from 'react'&#10;import { View, Text, Image, StyleSheet } from 'react-native'&#10;&#10;export default class $fileName$ extends PureComponent {&#10;  constructor(props) {&#10;    super(props)&#10;  }&#10;&#10;  render() {&#10;    return (&#10;      &lt;View&gt;&#10;        $END$&#10;      &lt;/View&gt;&#10;    )&#10;  }&#10;}" description="react 基本代码" toReformat="false" toShortenFQNames="true">
+    <variable name="fileName" expression="fileNameWithoutExtension()" defaultValue="" alwaysStopAt="false" />
+    <variable name="describe" expression="" defaultValue="文件功能" alwaysStopAt="true" />
+    <variable name="date" expression="date()" defaultValue="" alwaysStopAt="true" />
+    <variable name="time" expression="time()" defaultValue="" alwaysStopAt="true" />
+    <variable name="user" expression="user()" defaultValue="" alwaysStopAt="true" />
+    <variable name="version" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="sts" value="style={styles.$VAR$}" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="glg" value="global.log('$description$',$VAR$)$END$" description="global.log" toReformat="true" toShortenFQNames="true">
+    <variable name="description" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="info" value="/**&#10; *name: $fileName$&#10; *describe: $describe$&#10; *time: $date$ $time$&#10; *author: $user$&#10; *version: $version$&#10;*/&#10;" description="文件信息" toReformat="false" toShortenFQNames="true">
+    <variable name="fileName" expression="fileName()" defaultValue="" alwaysStopAt="true" />
+    <variable name="describe" expression="describe()" defaultValue="文件功能" alwaysStopAt="true" />
+    <variable name="date" expression="date()" defaultValue="" alwaysStopAt="true" />
+    <variable name="time" expression="time()" defaultValue="" alwaysStopAt="true" />
+    <variable name="user" expression="user()" defaultValue="" alwaysStopAt="true" />
+    <variable name="version" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="css" value="fontSize: 14,&#10;color: '$TColor',&#10;fontFamily: '$normalFF'" description="常用CSS" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="etc" value="/**&#10; *name: $fileName$&#10; *describe: $describe$&#10; *time: $date$ $time$&#10; *author: $user$&#10; *version: $version$&#10;*/&#10;&#10;import Taro, { Component } from '@tarojs/taro'&#10;import { View, Text, Image } from '@tarojs/components'&#10;import './index.scss'&#10;&#10;export default class $fileName$ extends Component {&#10;  static defaultProps = {&#10;    list: []&#10;  }&#10;&#10;  state = {&#10;    &#10;  }&#10;&#10;  render() {&#10;    return (&#10;      &lt;View&gt;&#10;&#10;      &lt;/View&gt;&#10;    )&#10;  }&#10;}&#10;" description="taro 基本代码" toReformat="false" toShortenFQNames="true">
+    <variable name="fileName" expression="fileNameWithoutExtension()" defaultValue="" alwaysStopAt="true" />
+    <variable name="describe" expression="" defaultValue="文件功能" alwaysStopAt="true" />
+    <variable name="date" expression="date()" defaultValue="" alwaysStopAt="true" />
+    <variable name="time" expression="time()" defaultValue="" alwaysStopAt="true" />
+    <variable name="user" expression="user()" defaultValue="" alwaysStopAt="true" />
+    <variable name="version" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="lps" value="let { $VAR$ } = this.props" description="从props中解构" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="lst" value="let { $VAR$ } = this.state" description="从state中解构" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+</templateSet>
