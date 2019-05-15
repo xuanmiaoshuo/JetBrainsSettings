@@ -1,7 +1,6 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping ext="wxss" type="CSS" />
       <mapping ext="wxml" type="HTML" />
       <mapping ext="wxs" type="JavaScript" />
       <mapping pattern="npm" type="PLAIN_TEXT" />
@@ -11,8 +10,10 @@
       <mapping ext="ec" type="PLAIN_TEXT" />
       <mapping ext="swig" type="PLAIN_TEXT" />
       <mapping ext="meta" type="PLAIN_TEXT" />
+      <mapping ext="wxss" type="SCSS" />
       <mapping ext="wpy" type="Vue.js" />
       <removed_mapping pattern="wxs" approved="true" type="JavaScript" />
+      <removed_mapping ext="wxss" approved="true" type="CSS" />
     </extensionMap>
   </component>
 </application>
