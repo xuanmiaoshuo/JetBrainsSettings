@@ -4,7 +4,13 @@
       <entry key="Default">
         <PlaceSettings>
           <option name="ENABLE_SYNC_SCROLL" value="false" />
+        </PlaceSettings>
+      </entry>
+      <entry key="VcsLogView">
+        <PlaceSettings>
           <option name="EXPAND_BY_DEFAULT" value="false" />
+          <option name="SHOW_INDENT_LINES" value="true" />
+          <option name="SHOW_WHITESPACES" value="true" />
         </PlaceSettings>
       </entry>
     </option>
