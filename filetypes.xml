@@ -3,13 +3,14 @@
     <extensionMap>
       <mapping ext="wxml" type="HTML" />
       <mapping ext="wxs" type="JavaScript" />
-      <mapping pattern="npm" type="PLAIN_TEXT" />
-      <mapping pattern="node-gyp" type="PLAIN_TEXT" />
       <mapping pattern="debugger-ui" type="PLAIN_TEXT" />
+      <mapping pattern="npm" type="PLAIN_TEXT" />
+      <mapping pattern=".gitconfig" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
-      <mapping ext="ec" type="PLAIN_TEXT" />
+      <mapping pattern="node-gyp" type="PLAIN_TEXT" />
       <mapping ext="swig" type="PLAIN_TEXT" />
       <mapping ext="meta" type="PLAIN_TEXT" />
+      <mapping ext="ec" type="PLAIN_TEXT" />
       <mapping ext="wxss" type="SCSS" />
       <mapping ext="wpy" type="Vue.js" />
       <removed_mapping pattern="wxs" approved="true" type="JavaScript" />
