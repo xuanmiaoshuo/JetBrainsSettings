@@ -20,6 +20,9 @@
   <action id="OnlineSearch.EditorActions.ShowSearchEnginesAction">
     <keyboard-shortcut first-keystroke="ctrl s" />
   </action>
+  <action id="RearrangeCode">
+    <keyboard-shortcut first-keystroke="ctrl alt s" />
+  </action>
   <action id="com.jetbrains.plugins.remotesdk.console.RunSshConsoleAction">
     <keyboard-shortcut first-keystroke="meta alt s" />
   </action>
