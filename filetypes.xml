@@ -17,6 +17,7 @@
       <mapping ext="wast" type="PLAIN_TEXT" />
       <mapping ext="ec" type="PLAIN_TEXT" />
       <mapping ext="wxss" type="SCSS" />
+      <mapping pattern="alias.js" type="TypeScript" />
       <mapping ext="wpy" type="Vue.js" />
       <removed_mapping pattern="wxs" approved="true" type="JavaScript" />
       <removed_mapping ext="wxss" approved="true" type="Less" />
