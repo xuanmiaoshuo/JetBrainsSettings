@@ -1,4 +1,4 @@
-<keymap version="1" name="Mac OS X 10.5+ copy" parent="Mac OS X 10.5+">
+<keymap version="1" name="Mac OS X 10.5+ xuanmiao" parent="Mac OS X 10.5+">
   <action id="Annotate">
     <keyboard-shortcut first-keystroke="alt a" />
   </action>
