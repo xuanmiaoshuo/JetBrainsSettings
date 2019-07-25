@@ -4,7 +4,7 @@
     <property name="created">2019-07-25T11:59:25</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2019.2.0.0</property>
-    <property name="modified">2019-07-25T12:05:43</property>
+    <property name="modified">2019-07-25T15:02:01</property>
     <property name="originalScheme">One Dark copy</property>
   </metaInfo>
   <console-font>
@@ -46,7 +46,7 @@
     <option name="RIGHT_MARGIN_COLOR" value="323232" />
     <option name="SELECTED_INDENT_GUIDE" value="0" />
     <option name="SELECTED_TEARLINE_COLOR" value="898941" />
-    <option name="SELECTION_BACKGROUND" value="3e4451" />
+    <option name="SELECTION_BACKGROUND" value="5382cc" />
     <option name="SELECTION_FOREGROUND" value="" />
     <option name="TEARLINE_COLOR" value="656565" />
     <option name="WHITESPACES" value="505050" />
