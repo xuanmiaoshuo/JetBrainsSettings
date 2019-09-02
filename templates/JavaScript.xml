@@ -13,13 +13,14 @@
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="edc" value="/**&#10; *name: $fileName$&#10; *describe: $describe$&#10; *time: $date$ $time$&#10; *author: $user$&#10; *version: $version$&#10; */&#10;&#10;import React, { PureComponent } from 'react'&#10;import { View, Text, Image, StyleSheet } from 'react-native'&#10;&#10;export default class $fileName$ extends PureComponent {&#10;  constructor(props) {&#10;    super(props)&#10;  }&#10;&#10;  render() {&#10;    return (&#10;      &lt;View&gt;&#10;        $END$&#10;      &lt;/View&gt;&#10;    )&#10;  }&#10;}" description="react 基本代码" toReformat="false" toShortenFQNames="true">
+  <template name="edc" value="/**&#10; *name: $fileName$&#10; *describe: $describe$&#10; *time: $date$ $time$&#10; *author: $user$&#10; *version: $version$&#10; */&#10;&#10;import React, { PureComponent } from 'react'&#10;import { View, Text, Image, StyleSheet } from 'react-native'&#10;&#10;export default class $className$ extends PureComponent {&#10;  constructor(props) {&#10;    super(props)&#10;  }&#10;&#10;  render() {&#10;    return (&#10;      &lt;View&gt;&#10;        $END$&#10;      &lt;/View&gt;&#10;    )&#10;  }&#10;}" description="react 基本代码" toReformat="false" toShortenFQNames="true">
     <variable name="fileName" expression="fileNameWithoutExtension()" defaultValue="" alwaysStopAt="false" />
     <variable name="describe" expression="" defaultValue="文件功能" alwaysStopAt="true" />
     <variable name="date" expression="date()" defaultValue="" alwaysStopAt="true" />
     <variable name="time" expression="time()" defaultValue="" alwaysStopAt="true" />
     <variable name="user" expression="user()" defaultValue="" alwaysStopAt="true" />
     <variable name="version" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="className" expression="" defaultValue="类名" alwaysStopAt="true" />
     <context>
       <option name="JAVA_SCRIPT" value="true" />
     </context>
@@ -72,6 +73,18 @@
   </template>
   <template name="lst" value="let { $VAR$ } = this.state" description="从state中解构" toReformat="false" toShortenFQNames="true">
     <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="edf" value="/**&#10; *name: $fileName$&#10; *describe: $describe$&#10; *time: $date$ $time$&#10; *author: $user$&#10; *version: $version$&#10; */&#10;&#10;import React, { PureComponent } from 'react'&#10;import { SafeAreaView, Text, Image, StyleSheet } from 'react-native'&#10;&#10;function $functionName$() {&#10;  return (&#10;    &lt;SafeAreaView&gt;&#10;      &lt;Text&gt;标题&lt;/Text&gt;&#10;    &lt;/SafeAreaView&gt;&#10;  )&#10;}" description="rn 函数基本代码" toReformat="false" toShortenFQNames="true">
+    <variable name="fileName" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="describe" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="date" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="time" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="user" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="version" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="functionName" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_SCRIPT" value="true" />
     </context>
