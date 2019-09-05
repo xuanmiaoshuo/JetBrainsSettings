@@ -77,12 +77,12 @@
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="edf" value="/**&#10; *name: $fileName$&#10; *describe: $describe$&#10; *time: $date$ $time$&#10; *author: $user$&#10; *version: $version$&#10; */&#10;&#10;import React, { PureComponent } from 'react'&#10;import { SafeAreaView, Text, Image, StyleSheet } from 'react-native'&#10;&#10;function $functionName$() {&#10;  return (&#10;    &lt;SafeAreaView&gt;&#10;      &lt;Text&gt;标题&lt;/Text&gt;&#10;    &lt;/SafeAreaView&gt;&#10;  )&#10;}" description="rn 函数基本代码" toReformat="false" toShortenFQNames="true">
-    <variable name="fileName" expression="" defaultValue="" alwaysStopAt="true" />
+  <template name="edf" value="/**&#10; *name: $fileName$&#10; *describe: $describe$&#10; *time: $date$ $time$&#10; *author: $user$&#10; *version: $version$&#10; */&#10;&#10;import React, { useState } from 'react'&#10;import { View, Text, Image, StyleSheet } from 'react-native'&#10;import PropTypes from 'prop-types'&#10;&#10;// 样式&#10;const styles = StyleSheet.create({&#10;  &#10;})&#10;&#10;export default function $functionName$() {&#10;  return (&#10;    &lt;SafeAreaView&gt;&#10;      &lt;Text&gt;标题&lt;/Text&gt;&#10;    &lt;/SafeAreaView&gt;&#10;  )&#10;}" description="rn 函数基本代码" toReformat="false" toShortenFQNames="true">
+    <variable name="fileName" expression="fileNameWithoutExtension()" defaultValue="" alwaysStopAt="true" />
     <variable name="describe" expression="" defaultValue="" alwaysStopAt="true" />
-    <variable name="date" expression="" defaultValue="" alwaysStopAt="true" />
-    <variable name="time" expression="" defaultValue="" alwaysStopAt="true" />
-    <variable name="user" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="date" expression="date()" defaultValue="" alwaysStopAt="true" />
+    <variable name="time" expression="time()" defaultValue="" alwaysStopAt="true" />
+    <variable name="user" expression="user()" defaultValue="" alwaysStopAt="true" />
     <variable name="version" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="functionName" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
