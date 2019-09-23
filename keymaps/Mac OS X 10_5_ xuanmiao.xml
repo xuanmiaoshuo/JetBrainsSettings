@@ -43,6 +43,10 @@
   <action id="OnlineSearch.EditorActions.ShowSearchEnginesAction">
     <keyboard-shortcut first-keystroke="ctrl s" />
   </action>
+  <action id="QuickJavaDoc">
+    <keyboard-shortcut first-keystroke="f1" />
+    <mouse-shortcut keystroke="control button2" />
+  </action>
   <action id="RearrangeCode">
     <keyboard-shortcut first-keystroke="ctrl alt s" />
   </action>
