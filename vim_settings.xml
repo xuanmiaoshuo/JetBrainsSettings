@@ -62,6 +62,9 @@
       <shortcut-conflict owner="ide">
         <text>shift ctrl pressed 6</text>
       </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed L</text>
+      </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
       <key-repeat enabled="true" />
