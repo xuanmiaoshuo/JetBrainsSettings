@@ -1,10 +1,17 @@
 <keymap version="1" name="Mac OS X 10.5+ xuanmiao" parent="Mac OS X 10.5+">
+  <action id="ActivateFavoritesToolWindow" />
+  <action id="ActivateTerminalToolWindow">
+    <keyboard-shortcut first-keystroke="alt f12" />
+    <keyboard-shortcut first-keystroke="meta 2" />
+  </action>
   <action id="Annotate">
     <keyboard-shortcut first-keystroke="alt a" />
   </action>
   <action id="CloseAllEditorsButActive">
     <keyboard-shortcut first-keystroke="shift meta w" />
   </action>
+  <action id="DuplicatesForm.SendToRight" />
+  <action id="FileChooser.GotoProject" />
   <action id="Generate">
     <keyboard-shortcut first-keystroke="ctrl enter" />
   </action>
