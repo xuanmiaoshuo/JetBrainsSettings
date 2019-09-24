@@ -32,7 +32,7 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed H</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="ide">
+      <shortcut-conflict owner="vim">
         <text>ctrl pressed V</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
