@@ -89,7 +89,7 @@
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="const" value="const " toReformat="false" toShortenFQNames="true">
+  <template name="const" value="const " description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_SCRIPT" value="true" />
     </context>
