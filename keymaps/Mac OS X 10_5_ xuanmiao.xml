@@ -71,6 +71,10 @@
   <action id="RearrangeCode">
     <keyboard-shortcut first-keystroke="ctrl alt s" />
   </action>
+  <action id="ReformatWithPrettierAction">
+    <keyboard-shortcut first-keystroke="shift meta alt p" />
+    <keyboard-shortcut first-keystroke="shift meta p" />
+  </action>
   <action id="com.jetbrains.plugins.remotesdk.console.RunSshConsoleAction">
     <keyboard-shortcut first-keystroke="meta alt s" />
   </action>
