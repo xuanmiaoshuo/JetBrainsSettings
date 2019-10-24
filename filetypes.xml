@@ -7,6 +7,7 @@
       <mapping ext="wxml" type="HTML" />
       <mapping ext="wxs" type="JavaScript" />
       <mapping pattern="debugger-ui" type="PLAIN_TEXT" />
+      <mapping pattern="qqqq" type="PLAIN_TEXT" />
       <mapping pattern="npm" type="PLAIN_TEXT" />
       <mapping pattern=".prettierignore" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
