@@ -11,6 +11,7 @@
       <mapping pattern="npm" type="PLAIN_TEXT" />
       <mapping pattern=".prettierignore" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern=".mnpmrc" type="PLAIN_TEXT" />
       <mapping pattern="node-gyp" type="PLAIN_TEXT" />
       <mapping pattern=".vimrc.local" type="PLAIN_TEXT" />
       <mapping ext="wat" type="PLAIN_TEXT" />
