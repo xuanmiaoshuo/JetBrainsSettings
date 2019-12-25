@@ -1,6 +1,6 @@
 <keymap version="1" name="Mac OS X 10.5+ xuanmiao" parent="Mac OS X 10.5+">
   <action id="AceAction">
-    <keyboard-shortcut first-keystroke="ctrl j" />
+    <keyboard-shortcut first-keystroke="ctrl i" />
   </action>
   <action id="ActivateFavoritesToolWindow" />
   <action id="ActivateTerminalToolWindow">
