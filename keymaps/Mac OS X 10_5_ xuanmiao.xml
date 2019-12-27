@@ -10,8 +10,12 @@
   <action id="Annotate">
     <keyboard-shortcut first-keystroke="alt a" />
   </action>
+  <action id="ChangesView.SetDefault" />
   <action id="CloseAllEditorsButActive">
     <keyboard-shortcut first-keystroke="shift meta w" />
+  </action>
+  <action id="CodeCompletion">
+    <keyboard-shortcut first-keystroke="ctrl c" />
   </action>
   <action id="Debug" />
   <action id="DuplicatesForm.SendToRight" />
@@ -75,6 +79,7 @@
     <keyboard-shortcut first-keystroke="shift meta alt p" />
     <keyboard-shortcut first-keystroke="shift meta p" />
   </action>
+  <action id="RestoreDefaultLayout" />
   <action id="com.jetbrains.plugins.remotesdk.console.RunSshConsoleAction">
     <keyboard-shortcut first-keystroke="meta alt s" />
   </action>
