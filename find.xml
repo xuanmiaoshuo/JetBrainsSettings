@@ -3,7 +3,6 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.wxml" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -18,8 +17,8 @@
     <mask>通过审核</mask>
     <mask>*.vue</mask>
     <mask>*.ts</mask>
-    <mask>*.js</mask>
     <mask>*</mask>
     <mask>*.wxml</mask>
+    <mask>*.js</mask>
   </component>
 </application>
