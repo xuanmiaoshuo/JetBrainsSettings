@@ -14,9 +14,9 @@
       <mapping ext="wat" type="PLAIN_TEXT" />
       <mapping ext="wast" type="PLAIN_TEXT" />
       <mapping ext="wasm" type="PLAIN_TEXT" />
-      <mapping ext="woff2" type="PLAIN_TEXT" />
       <mapping ext="meta" type="PLAIN_TEXT" />
       <mapping ext="swig" type="PLAIN_TEXT" />
+      <mapping ext="woff2" type="PLAIN_TEXT" />
       <mapping ext="ec" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
