@@ -27,6 +27,9 @@
     <keyboard-shortcut first-keystroke="alt delete" />
     <keyboard-shortcut first-keystroke="alt d" />
   </action>
+  <action id="EditorJoinLines">
+    <keyboard-shortcut first-keystroke="shift meta j" />
+  </action>
   <action id="EditorNextWord">
     <keyboard-shortcut first-keystroke="alt right" />
     <keyboard-shortcut first-keystroke="alt quote" />
