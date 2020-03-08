@@ -6,8 +6,7 @@
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="arrow" value="$FunctionName$= ($VAR$) =&gt; {&#10;  $END$&#10;}" description="箭头函数" toReformat="false" toShortenFQNames="true">
-    <variable name="FunctionName" expression="" defaultValue="" alwaysStopAt="true" />
+  <template name="arrow" value="($VAR$) =&gt; {&#10;  $END$&#10;}" description="箭头函数" toReformat="false" toShortenFQNames="true">
     <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_SCRIPT" value="true" />
