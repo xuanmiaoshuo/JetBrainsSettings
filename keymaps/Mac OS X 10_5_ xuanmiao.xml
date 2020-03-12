@@ -83,6 +83,7 @@
     <keyboard-shortcut first-keystroke="shift meta p" />
   </action>
   <action id="RestoreDefaultLayout" />
+  <action id="ShowFilterPopup" />
   <action id="com.jetbrains.plugins.remotesdk.console.RunSshConsoleAction">
     <keyboard-shortcut first-keystroke="meta alt s" />
   </action>
