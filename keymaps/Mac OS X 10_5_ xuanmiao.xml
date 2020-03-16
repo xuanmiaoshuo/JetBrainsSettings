@@ -27,6 +27,10 @@
     <keyboard-shortcut first-keystroke="alt delete" />
     <keyboard-shortcut first-keystroke="alt d" />
   </action>
+  <action id="EditorDownWithSelection">
+    <keyboard-shortcut first-keystroke="shift down" />
+    <keyboard-shortcut first-keystroke="shift alt close_bracket" />
+  </action>
   <action id="EditorJoinLines">
     <keyboard-shortcut first-keystroke="shift meta j" />
   </action>
@@ -51,6 +55,10 @@
   <action id="EditorSelectWord">
     <keyboard-shortcut first-keystroke="alt up" />
     <keyboard-shortcut first-keystroke="alt open_bracket" />
+  </action>
+  <action id="EditorUpWithSelection">
+    <keyboard-shortcut first-keystroke="shift up" />
+    <keyboard-shortcut first-keystroke="shift alt open_bracket" />
   </action>
   <action id="FileChooser.GotoProject" />
   <action id="Generate">
