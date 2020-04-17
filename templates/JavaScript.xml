@@ -48,7 +48,7 @@
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="css" value="fontSize: 14,&#10;color: '$TColor',&#10;fontFamily: '$normalFF'" description="常用CSS" toReformat="false" toShortenFQNames="true">
+  <template name="css" value="fontSize: 14,&#10;color: '$TColor',&#10;fontFamily: '$normalFF'" description="常用CSS" toReformat="false" toShortenFQNames="true" deactivated="true">
     <context>
       <option name="JAVA_SCRIPT" value="true" />
     </context>
