@@ -12,7 +12,7 @@
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="edc" value="/**&#10; *name: $fileName$&#10; *describe: $describe$&#10; *time: $date$ $time$&#10; *author: $user$&#10; *version: $version$&#10; */&#10;&#10;import React, { PureComponent } from 'react'&#10;import { View, Text, Image, StyleSheet } from 'react-native'&#10;&#10;export default class $className$ extends PureComponent {&#10;  constructor(props) {&#10;    super(props)&#10;  }&#10;&#10;  render() {&#10;    return (&#10;      &lt;View&gt;&#10;        $END$&#10;      &lt;/View&gt;&#10;    )&#10;  }&#10;}" description="react 基本代码" toReformat="false" toShortenFQNames="true">
+  <template name="edc" value="/**&#10; *name: $fileName$&#10; *describe: $describe$&#10; *time: $date$ $time$&#10; *author: $user$&#10; *version: $version$&#10; */&#10;&#10;import React, { PureComponent } from 'react'&#10;import { View, Text } from 'react-native'&#10;&#10;export default class $className$ extends PureComponent {&#10;  constructor(props) {&#10;    super(props)&#10;  }&#10;&#10;  render() {&#10;    return (&#10;      &lt;View&gt;&#10;        $END$&#10;      &lt;/View&gt;&#10;    )&#10;  }&#10;}" description="react 基本代码" toReformat="false" toShortenFQNames="true">
     <variable name="fileName" expression="fileNameWithoutExtension()" defaultValue="" alwaysStopAt="false" />
     <variable name="describe" expression="" defaultValue="文件功能" alwaysStopAt="true" />
     <variable name="date" expression="date()" defaultValue="" alwaysStopAt="true" />
