@@ -18,9 +18,9 @@
       <mapping ext="swig" type="PLAIN_TEXT" />
       <mapping ext="woff2" type="PLAIN_TEXT" />
       <mapping ext="ec" type="PLAIN_TEXT" />
-      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <mapping ext="wxss" type="SCSS" />
       <mapping pattern="testgit" type="TypeScript" />
       <mapping pattern="alias.js" type="TypeScript" />
