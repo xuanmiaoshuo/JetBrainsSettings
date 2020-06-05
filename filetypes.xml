@@ -8,6 +8,7 @@
       <mapping pattern=".prettierignore" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern=".mnpmrc" type="PLAIN_TEXT" />
+      <mapping pattern="把应用拖入这里完成安装" type="PLAIN_TEXT" />
       <mapping pattern="node-gyp" type="PLAIN_TEXT" />
       <mapping pattern="debugger-ui" type="PLAIN_TEXT" />
       <mapping pattern=".vimrc.local" type="PLAIN_TEXT" />
