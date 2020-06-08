@@ -26,8 +26,6 @@
       <mapping pattern="testgit" type="TypeScript" />
       <mapping pattern="alias.js" type="TypeScript" />
       <mapping ext="wpy" type="Vue.js" />
-      <removed_mapping ext="wxml" approved="true" type="WXML" />
-      <removed_mapping ext="wxss" approved="true" type="WXSS" />
       <removed_mapping pattern="wxs" approved="true" type="JavaScript" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
