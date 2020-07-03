@@ -61,6 +61,9 @@
     <keyboard-shortcut first-keystroke="shift alt open_bracket" />
   </action>
   <action id="FileChooser.GotoProject" />
+  <action id="FixDocComment">
+    <keyboard-shortcut first-keystroke="shift ctrl j" />
+  </action>
   <action id="Generate">
     <keyboard-shortcut first-keystroke="ctrl enter" />
   </action>
