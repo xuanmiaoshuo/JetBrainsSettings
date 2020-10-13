@@ -14,7 +14,6 @@
     <mask>*.wpy</mask>
     <mask>*.scss</mask>
     <mask>通过审核</mask>
-    <mask>*.vue</mask>
     <mask>*.ts</mask>
     <mask>*</mask>
     <mask>*.wxml</mask>
@@ -22,5 +21,6 @@
     <mask>*.xml</mask>
     <mask>.js</mask>
     <mask>*.js</mask>
+    <mask>*.vue</mask>
   </component>
 </application>
