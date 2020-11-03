@@ -20,7 +20,7 @@
     <mask>*.less</mask>
     <mask>*.xml</mask>
     <mask>.js</mask>
-    <mask>*.js</mask>
     <mask>*.vue</mask>
+    <mask>*.js</mask>
   </component>
 </application>
