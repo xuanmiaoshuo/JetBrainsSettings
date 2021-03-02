@@ -90,6 +90,9 @@
   <action id="Macro.eslint fix and save">
     <keyboard-shortcut first-keystroke="ctrl s" />
   </action>
+  <action id="ManageRecentProjects">
+    <keyboard-shortcut first-keystroke="ctrl meta o" />
+  </action>
   <action id="NewElement">
     <keyboard-shortcut first-keystroke="ctrl enter" />
   </action>
