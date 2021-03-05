@@ -19,6 +19,7 @@
       <mapping ext="pfx" type="PLAIN_TEXT" />
       <mapping ext="woff2" type="PLAIN_TEXT" />
       <mapping ext="wat" type="PLAIN_TEXT" />
+      <mapping ext="ts " type="PLAIN_TEXT" />
       <mapping ext="wasm" type="PLAIN_TEXT" />
       <mapping ext="node" type="PLAIN_TEXT" />
       <mapping ext="swig" type="PLAIN_TEXT" />
