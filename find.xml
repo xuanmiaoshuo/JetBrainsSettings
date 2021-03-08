@@ -21,8 +21,8 @@
     <mask>*.vue</mask>
     <mask>*.less</mask>
     <mask>*.d.ts</mask>
-    <mask>*.ts</mask>
     <mask>*.js</mask>
     <mask>*.json</mask>
+    <mask>*.ts</mask>
   </component>
 </application>
