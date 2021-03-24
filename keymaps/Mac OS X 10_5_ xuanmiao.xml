@@ -74,16 +74,6 @@
   <action id="Generate">
     <keyboard-shortcut first-keystroke="ctrl enter" />
   </action>
-  <action id="GotoDeclaration">
-    <keyboard-shortcut first-keystroke="meta b" />
-    <mouse-shortcut keystroke="Force touch" />
-    <mouse-shortcut keystroke="button2" />
-  </action>
-  <action id="GotoImplementation">
-    <keyboard-shortcut first-keystroke="meta alt b" />
-    <mouse-shortcut keystroke="meta alt button1" />
-    <mouse-shortcut keystroke="meta button1" />
-  </action>
   <action id="Javascript.Linters.EsLint.Fix">
     <keyboard-shortcut first-keystroke="shift meta l" />
   </action>
