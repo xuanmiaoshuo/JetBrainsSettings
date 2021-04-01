@@ -22,6 +22,7 @@
       <mapping ext="ts " type="PLAIN_TEXT" />
       <mapping ext="wasm" type="PLAIN_TEXT" />
       <mapping ext="node" type="PLAIN_TEXT" />
+      <mapping ext="dmp" type="PLAIN_TEXT" />
       <mapping ext="swig" type="PLAIN_TEXT" />
       <mapping ext="wxss" type="SCSS" />
       <mapping pattern="testgit" type="TypeScript" />
