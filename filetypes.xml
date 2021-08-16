@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping pattern="macOS小助手" type="AUTO_DETECTED" />
       <mapping pattern="安装" type="AUTO_DETECTED" />
+      <mapping pattern="08-10 ~ 0816" type="AUTO_DETECTED" />
       <mapping ext="wxml" type="HTML" />
       <mapping pattern=".prettierignore" type="PLAIN_TEXT" />
       <mapping pattern="debugger-ui" type="PLAIN_TEXT" />
