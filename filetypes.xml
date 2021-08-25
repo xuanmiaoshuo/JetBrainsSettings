@@ -2,18 +2,18 @@
   <component name="FileTypeManager" version="18">
     <ignoreFiles list="*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.hg;.idea;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc" />
     <extensionMap>
+      <mapping pattern="08-10 ~ 0816" type="AUTO_DETECTED" />
       <mapping pattern="macOS小助手" type="AUTO_DETECTED" />
       <mapping pattern="安装" type="AUTO_DETECTED" />
-      <mapping pattern="08-10 ~ 0816" type="AUTO_DETECTED" />
       <mapping ext="wxml" type="HTML" />
       <mapping pattern=".prettierignore" type="PLAIN_TEXT" />
-      <mapping pattern="debugger-ui" type="PLAIN_TEXT" />
       <mapping pattern=".vimrc.local" type="PLAIN_TEXT" />
       <mapping pattern=".mnpmrc" type="PLAIN_TEXT" />
-      <mapping pattern=".env.beta" type="PLAIN_TEXT" />
-      <mapping pattern="npm" type="PLAIN_TEXT" />
       <mapping pattern="node-gyp" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern="debugger-ui" type="PLAIN_TEXT" />
+      <mapping pattern=".env.beta" type="PLAIN_TEXT" />
+      <mapping pattern="npm" type="PLAIN_TEXT" />
       <mapping ext="meta" type="PLAIN_TEXT" />
       <mapping ext="ec" type="PLAIN_TEXT" />
       <mapping ext="wast" type="PLAIN_TEXT" />
