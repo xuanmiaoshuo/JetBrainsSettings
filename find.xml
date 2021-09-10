@@ -22,11 +22,11 @@
     <mask>*.wxml</mask>
     <mask>*.xml</mask>
     <mask>.js</mask>
-    <mask>*.vue</mask>
     <mask>*.less</mask>
     <mask>*.json</mask>
     <mask>*.ts</mask>
     <mask>*.js</mask>
     <mask>*.d.ts</mask>
+    <mask>*.vue</mask>
   </component>
 </application>
