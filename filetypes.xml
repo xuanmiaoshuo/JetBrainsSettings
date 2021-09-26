@@ -24,6 +24,7 @@
       <mapping ext="wasm" type="PLAIN_TEXT" />
       <mapping ext="node" type="PLAIN_TEXT" />
       <mapping ext="dmp" type="PLAIN_TEXT" />
+      <mapping ext="exe" type="PLAIN_TEXT" />
       <mapping ext="swig" type="PLAIN_TEXT" />
       <mapping ext="wxss" type="SCSS" />
       <mapping pattern="alias.js" type="TypeScript" />
