@@ -1,5 +1,10 @@
 <application>
   <component name="LightEdit">
+    <option name="sessionFiles">
+      <list>
+        <option value="file:///private/etc/hosts" />
+      </list>
+    </option>
     <option name="supportedFilePatterns">
       <list>
         <option value="*.conf" />
@@ -12,6 +17,9 @@
         <option value="*.xml" />
         <option value="*.yml" />
       </list>
+    </option>
+    <option name="frameInfo">
+      <frame x="324" y="152" width="1400" height="1000" extendedState="6" />
     </option>
     <option name="preferredMode" value="LightEdit" />
   </component>
