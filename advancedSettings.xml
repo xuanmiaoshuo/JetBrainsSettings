@@ -2,7 +2,7 @@
   <component name="AdvancedSettings">
     <option name="settings">
       <map>
-        <entry key="ide.settings.move.mouse.on.default.button" value="true" />
+        <entry key="ide.show.fileType.icon.in.titleBar" value="true" />
       </map>
     </option>
   </component>
