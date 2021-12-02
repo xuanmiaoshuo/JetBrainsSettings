@@ -22,9 +22,9 @@
     <mask>.js</mask>
     <mask>*.less</mask>
     <mask>*.json</mask>
-    <mask>*.ts</mask>
     <mask>*.d.ts</mask>
     <mask>*.vue</mask>
     <mask>*.js</mask>
+    <mask>*.ts</mask>
   </component>
 </application>
