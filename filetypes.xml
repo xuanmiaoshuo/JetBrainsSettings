@@ -6,7 +6,6 @@
       <mapping pattern="安装" type="AUTO_DETECTED" />
       <mapping pattern="08-10 ~ 0816" type="AUTO_DETECTED" />
       <mapping ext="wxml" type="HTML" />
-      <removed_mapping pattern=".prettierrc" type="JSON" />
       <mapping pattern=".prettierignore" type="PLAIN_TEXT" />
       <mapping pattern="debugger-ui" type="PLAIN_TEXT" />
       <mapping pattern=".vimrc.local" type="PLAIN_TEXT" />
@@ -42,6 +41,7 @@
       <removed_mapping ext="wxml" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="wxss" approved="true" type="Less" />
       <removed_mapping pattern=".gitconfig" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern=".prettierrc" approved="true" type="JSON" />
       <removed_mapping pattern="cox-lint" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="cox-test" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="qqqq" approved="true" type="PLAIN_TEXT" />
