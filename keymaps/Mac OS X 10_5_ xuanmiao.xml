@@ -68,10 +68,6 @@
     <keyboard-shortcut first-keystroke="shift alt left" />
     <keyboard-shortcut first-keystroke="shift alt semicolon" />
   </action>
-  <action id="EditorSelectWord">
-    <keyboard-shortcut first-keystroke="alt up" />
-    <keyboard-shortcut first-keystroke="alt open_bracket" />
-  </action>
   <action id="EditorUpWithSelection">
     <keyboard-shortcut first-keystroke="shift up" />
     <keyboard-shortcut first-keystroke="shift alt open_bracket" />
@@ -119,4 +115,5 @@
   <action id="com.jetbrains.plugins.remotesdk.console.RunSshConsoleAction">
     <keyboard-shortcut first-keystroke="meta alt s" />
   </action>
+  <action id="hg4idea.QPushAction" />
 </keymap>
