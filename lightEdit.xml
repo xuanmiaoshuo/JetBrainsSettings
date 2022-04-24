@@ -3,6 +3,7 @@
     <option name="sessionFiles">
       <list>
         <option value="file:///private/etc/hosts" />
+        <option value="file:///private/etc/hosts backup" />
       </list>
     </option>
     <option name="supportedFilePatterns">
@@ -19,7 +20,7 @@
       </list>
     </option>
     <option name="frameInfo">
-      <frame x="324" y="152" width="1400" height="1000" extendedState="6" />
+      <frame x="0" y="25" width="2048" height="1255" extendedState="6" />
     </option>
     <option name="preferredMode" value="LightEdit" />
   </component>
