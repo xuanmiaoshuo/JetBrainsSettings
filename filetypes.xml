@@ -15,6 +15,7 @@
       <mapping pattern="node-gyp" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping ext="meta" type="PLAIN_TEXT" />
+      <mapping ext="plist" type="PLAIN_TEXT" />
       <mapping ext="ec" type="PLAIN_TEXT" />
       <mapping ext="wast" type="PLAIN_TEXT" />
       <mapping ext="pfx" type="PLAIN_TEXT" />
