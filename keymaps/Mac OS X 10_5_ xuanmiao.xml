@@ -2,6 +2,7 @@
   <action id="AceAction">
     <keyboard-shortcut first-keystroke="ctrl j" />
   </action>
+  <action id="ActivateBookmarksToolWindow" />
   <action id="ActivateFavoritesToolWindow" />
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="alt f12" />
