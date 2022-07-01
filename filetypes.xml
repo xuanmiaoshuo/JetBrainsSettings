@@ -23,6 +23,7 @@
       <mapping ext="wat" type="PLAIN_TEXT" />
       <mapping ext="ts " type="PLAIN_TEXT" />
       <mapping ext="wasm" type="PLAIN_TEXT" />
+      <mapping ext="py" type="PLAIN_TEXT" />
       <mapping ext="nsh" type="PLAIN_TEXT" />
       <mapping ext="node" type="PLAIN_TEXT" />
       <mapping ext="dmp" type="PLAIN_TEXT" />
