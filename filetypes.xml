@@ -34,12 +34,14 @@
       <mapping pattern="alias.js" type="TypeScript" />
       <mapping pattern="testgit" type="TypeScript" />
       <mapping ext="wpy" type="Vue.js" />
+      <mapping ext="sdef" type="XML" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="dockerfile" approved="true" type="textmate" />
       <removed_mapping ext="log" approved="true" type="ANSI Aware" />
       <removed_mapping ext="makefile" approved="true" type="textmate" />
       <removed_mapping ext="nsh" approved="true" type="NSIS script" />
+      <removed_mapping ext="scpt" approved="true" type="AppleScript file" />
       <removed_mapping ext="snakefile" approved="true" type="textmate" />
       <removed_mapping ext="wxml" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="wxss" approved="true" type="Less" />
