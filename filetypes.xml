@@ -30,6 +30,7 @@
       <mapping ext="exe" type="PLAIN_TEXT" />
       <mapping ext="swig" type="PLAIN_TEXT" />
       <mapping ext="scpt" type="PLAIN_TEXT" />
+      <mapping ext="plantuml" type="PlantUML file" />
       <mapping ext="wxss" type="SCSS" />
       <mapping pattern="alias.js" type="TypeScript" />
       <mapping pattern="testgit" type="TypeScript" />
