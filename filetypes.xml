@@ -35,6 +35,8 @@
       <mapping pattern="alias.js" type="TypeScript" />
       <mapping pattern="testgit" type="TypeScript" />
       <mapping ext="wpy" type="Vue.js" />
+      <removed_mapping ext="wxml" type="WXML" />
+      <removed_mapping ext="wxss" type="WXSS" />
       <mapping ext="sdef" type="XML" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
