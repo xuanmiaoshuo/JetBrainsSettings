@@ -50,6 +50,7 @@
       <removed_mapping ext="wxss" approved="true" type="Less" />
       <removed_mapping ext="wxss" approved="true" type="WXSS" />
       <removed_mapping pattern=".gitconfig" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern=".prettierignore" approved="true" type="Prettier File" />
       <removed_mapping pattern=".prettierrc" approved="true" type="JSON" />
       <removed_mapping pattern="cox-lint" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="cox-test" approved="true" type="PLAIN_TEXT" />
