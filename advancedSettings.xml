@@ -4,6 +4,9 @@
       <map>
         <entry key="confirm.rerun.with.termination" value="false" />
         <entry key="ide.show.fileType.icon.in.titleBar" value="true" />
+        <entry key="se.text.search" value="true" />
+        <entry key="searcheverywhere.ml.sort.files" value="true" />
+        <entry key="start.run.configurations.pinned" value="true" />
       </map>
     </option>
   </component>
