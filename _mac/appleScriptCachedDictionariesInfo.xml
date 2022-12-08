@@ -1,0 +1,27 @@
+<application>
+  <component name="AppleScriptSystemDictionaryRegistryComponent">
+    <applicationsInfo>
+      <dictionary-info applicationName="Standard Terminology">
+        <option name="dictionaryUrl" value="$USER_HOME$/Library/Caches/JetBrains/WebStorm2022.2/sdef/Standard_Terminology_generated.sdef" />
+      </dictionary-info>
+      <dictionary-info applicationName="Scripting Additions">
+        <option name="dictionaryUrl" value="$USER_HOME$/Library/Caches/JetBrains/WebStorm2022.2/sdef/Scripting_Additions_generated.sdef" />
+      </dictionary-info>
+      <dictionary-info applicationName="TotalFinder">
+        <option name="dictionaryUrl" value="$USER_HOME$/Library/Caches/JetBrains/WebStorm2022.2/sdef/TotalFinder_generated.sdef" />
+        <option name="applicationUrl" value="/Library/ScriptingAdditions/TotalFinder.osax" />
+      </dictionary-info>
+      <dictionary-info applicationName="StandardAdditions">
+        <option name="dictionaryUrl" value="$USER_HOME$/Library/Caches/JetBrains/WebStorm2022.2/sdef/StandardAdditions_generated.sdef" />
+        <option name="applicationUrl" value="/System/Library/ScriptingAdditions/StandardAdditions.osax" />
+      </dictionary-info>
+      <dictionary-info applicationName="Digital Hub Scripting">
+        <option name="dictionaryUrl" value="$USER_HOME$/Library/Caches/JetBrains/WebStorm2022.2/sdef/Digital_Hub_Scripting_generated.sdef" />
+        <option name="applicationUrl" value="/System/Library/ScriptingAdditions/Digital Hub Scripting.osax" />
+      </dictionary-info>
+    </applicationsInfo>
+    <notScriptableApplications>
+      <item value="Adobe Unit Types" />
+    </notScriptableApplications>
+  </component>
+</application>
